@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\square.jpg</Source>
+      <Name>images\square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\square.xnb</Output>
+      <Time>2012-11-18T22:48:28.5923053+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\pen.jpg</Source>
+      <Name>images\pen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\pen.xnb</Output>
+      <Time>2012-11-18T19:47:07.7243703+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\target.jpg</Source>
+      <Name>images\target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\target.xnb</Output>
+      <Time>2012-11-18T21:54:21.6405903+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\timeline.jpg</Source>
+      <Name>images\timeline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\timeline.xnb</Output>
+      <Time>2012-11-18T22:52:49.5592318+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\back.jpg</Source>
+      <Name>images\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\back.xnb</Output>
+      <Time>2012-11-20T15:38:59.2629138+08:00</Time>
+    </Item>
+    <Item>
+      <Source>font\score.spritefont</Source>
+      <Name>font\score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\font\score.xnb</Output>
+      <Time>2012-11-20T19:18:08.7907319+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\animal.jpg</Source>
+      <Name>images\animal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\animal.xnb</Output>
+      <Time>2012-11-20T09:04:46.8514555+08:00</Time>
+    </Item>
+    <Item>
+      <Source>font\Sayingfont.spritefont</Source>
+      <Name>font\Sayingfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\font\Sayingfont.xnb</Output>
+      <Time>2012-11-20T14:57:36.9499336+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\box.jpg</Source>
+      <Name>images\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\box.xnb</Output>
+      <Time>2012-11-20T15:25:31.4147075+08:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\click.wav</Source>
+      <Name>audio\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\click.xnb</Output>
+      <Time>2012-11-28T09:42:48.0401132+08:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\right.wav</Source>
+      <Name>audio\right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\right.xnb</Output>
+      <Time>2012-11-28T09:39:52.556076+08:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\background.mp3</Source>
+      <Name>audio\background</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\background.xnb</Output>
+      <Extra>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\background.wma</Extra>
+      <Time>2012-11-28T10:28:06.5056005+08:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\open.mp3</Source>
+      <Name>audio\open</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\open.xnb</Output>
+      <Extra>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\audio\open.wma</Extra>
+      <Time>2012-11-28T12:47:46.9878053+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\music.png</Source>
+      <Name>images\music</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\music.xnb</Output>
+      <Time>2012-11-28T14:30:13.8213841+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\pause.png</Source>
+      <Name>images\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\pause.xnb</Output>
+      <Time>2012-11-28T15:51:12.6132911+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\pauseback.jpg</Source>
+      <Name>images\pauseback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\pauseback.xnb</Output>
+      <Time>2012-11-28T18:43:33.534758+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\start.jpg</Source>
+      <Name>images\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\start.xnb</Output>
+      <Time>2012-11-29T15:05:37.6772946+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\endback.jpg</Source>
+      <Name>images\endback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\endback.xnb</Output>
+      <Time>2012-11-29T19:54:05.8049087+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tryagain.png</Source>
+      <Name>images\tryagain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\tryagain.xnb</Output>
+      <Time>2012-11-29T19:36:16.2977363+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\never.png</Source>
+      <Name>images\never</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\images\never.xnb</Output>
+      <Time>2012-11-29T19:40:37.9357012+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A08563A4-F6B1-4350-83C5-765ED3D9D72A}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhoneContent\</RootDirectory>
+      <LoggerRootDirectory>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\快盘\xnaGame\mixupPhone\mixupPhone\mixupPhone\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-24T22:20:42.6837112+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
